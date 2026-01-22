@@ -1,0 +1,25 @@
+Task 1: Proofreading and editing
+Proofreading
+Cutting-Edge Classification: How We Keep You Safe
+ReversingLabs utilizes a state-of-the-art, next-generation classification algorithm to determine the security status of each analyzed file, ensuring best-in-class protection for your organization.
+File classification is based on a comprehensive assessment of its assigned risk factor, threat level, and trust factor; however, when necessary, it can be overridden manually or automatically by our world-class system.
+Based on this robust evaluation, files are placed into one of the following categories:
+* No threats found (unclassified)
+* Goodware / Known
+* Suspicious
+* Malicious
+Our industry-leading classification process weighs signals from all available sources to arrive at the most accurate verdict possible. Some signals are considered more authoritative than others and therefore take priority. For example, Spectra Core YARA rules always take precedence because they are written and curated by ReversingLabs' world-renowned analysts. These rules provide the highest degree of accuracy as they target specific, named threats with surgical precision.
+This does not mean that other classification methods are less important. Similarity matching, heuristics and machine learning still contribute valuable signals and may produce additional matches. In cases where multiple detections apply, YARA rules serve as the deciding factor for final classification, delivering unparalleled peace of mind.
+
+Editing
+File Analysis and Classification
+ReversingLabs determines the security status of analyzed files using a classification algorithm.
+Each file is classified based on its assigned risk factor, threat level, and trust factor. The system supports both automatic and manual overrides of the classification results.
+Classified files are placed into one of the following categories:
+* No threats found (unclassified)
+* Goodware / Known
+* Suspicious
+* Malicious
+To ensure the most accurate classification results, signals from different sources are weighed and prioritized. Spectra Core YARA rules have the highest priority as they are specifically curated to target specific, named threats based on ReversingLabs analysis data. Similarity matching, heuristics and machine learning are used to detect additional signals.
+Note: If multiple signal detections apply, YARA rules are used to determine the final classification.
+
